@@ -1,3 +1,1 @@
-<link rel="stylesheet" href="styles.css">
-
-# Teste
+ok, mais tarde eu resolvo isso.
