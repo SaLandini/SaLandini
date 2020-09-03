@@ -20,4 +20,4 @@ __An Citation?__ ok...
 
 “The message of this lecture is that black holes ain’t as black as they are painted. They are not the eternal prisons they were once thought. Things can get out of a black hole both on the outside and possibly to another universe. So if you feel you are in a black hole, don’t give up; there’s a way out.” - Hawking, Stephen.
 
-![Hawking Gif](https://i.gifer.com/7kui.gif)
+![Hawking Gif](https://media.giphy.com/media/cipr4SdLTGnQMcw4YI/giphy.gif)
