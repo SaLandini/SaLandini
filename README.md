@@ -11,7 +11,7 @@ __Instagram?__ yep -
 [portifolio?](https://www.instagram.com/salandin.f90)<br>
 __LinkdIn?__ unfortunately - [this is a link](https://www.linkedin.com/in/rafael-salandin-moraes-942b81173/) <br>
 __GitHub?__ yes... but you know this, is in github where you are reading this.<br>(Well, i think that. but for sure the [link is here](https://github.com/SaLandini))<br>
-__Another way to have contact?__ i think discord or idk know, E-mail? <br>
+__Another way to have contact?__ i think discord or idk, E-mail? <br>
 Discord: Salandin.f90#3124<br>
 E-mail: rafa_salandin@hotmail.com
 ____
