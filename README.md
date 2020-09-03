@@ -3,7 +3,7 @@
 __WHERE AM I?__ idk, where the hell i am? <br>
 __WHAT I WANT DO IN THE FUTURE?__ i wanna do Astronomy Curses and Job studing black holes or something like that.<br>
 __WHY AM I SCREMMING?__ IDK, I DON'T EVEN KNOW WHO ARE YOU, wait i don't know u, right?<br>
-Wait a moment, who am I?
+Wait a m, who am I?
 ____
 
 __Instagram?__ yep - 
@@ -20,4 +20,4 @@ __An Citation?__ ok...
 
 “The message of this lecture is that black holes ain’t as black as they are painted. They are not the eternal prisons they were once thought. Things can get out of a black hole both on the outside and possibly to another universe. So if you feel you are in a black hole, don’t give up; there’s a way out.” - Hawking, Stephen.
 
-<iframe src="https://gifer.com/embed/7kui" width=480 height=270.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+![Hawking Gif](https://i.gifer.com/7kui.gif)
