@@ -1,13 +1,8 @@
 ![ERA PRA TER UMA FOTO AQUI](https://i.imgur.com/0gTVKyQ.png)
-
-__WHERE AM I?__ idk, where the hell i am? <br>
-__WHAT I WANT DO IN THE FUTURE?__ i wanna do Astronomy Curses and work studying black holes or something like that.<br>
-__WHY AM I SCREMMING?__ IDK, I DON'T EVEN KNOW WHO ARE YOU, wait i don't know u, right?<br>
-Wait a moment, who am I?
 ____
 
 __Instagram?__ yep - 
-[personal](https://www.instagram.com/salandin.py) or 
+[personal](https://www.instagram.com/salandin.py) - 
 [portifolio?](https://www.instagram.com/salandin.f90)<br>
 __LinkdIn?__ unfortunately - [this is a link](https://www.linkedin.com/in/rafael-salandin-moraes-942b81173/) <br>
 __GitHub?__ yes... but you know this, is in github where you are reading this.<br>(Well, i think that. but for sure the [link is here](https://github.com/SaLandini))<br>
