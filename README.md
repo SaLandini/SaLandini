@@ -1,4 +1,4 @@
-![ERA PRA TER UMA FOTO AQUI](https://i.imgur.com/0gTVKyQ.png)
+
 ____
 
 __Instagram?__ yep - 
