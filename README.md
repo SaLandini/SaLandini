@@ -1,4 +1,3 @@
-![ERA PRA TER UMA FOTO AQUI](https://i.imgur.com/0gTVKyQ.png)
 
 __WHERE AM I?__ idk, where the hell i am? <br>
 __WHAT I WANT DO IN THE FUTURE?__ i wanna do Astronomy Curses and Job studing black holes or something like that.<br>
