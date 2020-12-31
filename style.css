@@ -1,0 +1,102 @@
+/*
+    Import fonts
+*/
+@import url('https://fonts.googleapis.com/css2?family=Megrim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,700;1,700&display=swap');
+
+/*
+Style html
+*/
+html {
+    background:#17141a;
+}
+
+/*
+Style profile
+*/
+.content .profile #id img{
+    background-color: whitesmoke;
+    border-radius: 200%;
+    
+    width: 200px;
+
+    margin-top: 50px;
+}
+
+.content .profile #name {
+    color: whitesmoke;
+}
+
+.content .profile #name #namename{
+    font-family: 'Press Start 2P', cursive;
+}
+
+.content .profile #name #arroba {
+    font-family: 'VT323', monospace;
+    font-size: large;
+}
+
+/*
+Style links
+*/
+@media (min-width: 768px){
+    .content .links{
+        column-count: 2;
+    }    
+} 
+
+@media (max-width: 768px){
+    .content .links{
+        column-count: 1;
+    }    
+}
+
+.content .links{
+    font-family: 'Megrim', cursive;
+}
+
+.content .links #link-Insta1, #link-Insta2 {
+    background: -webkit-linear-gradient(35deg, #f58529, #feda77, #dd2a7b, #8134af, #515bd4);
+}
+
+.content .links #link-Git {
+    background-color: #24292e;
+}
+
+.content .links #link-Link {
+    background-color: #0e76a8;
+}
+
+.content .links #link-Email {
+    background-color: #00a2ed;
+}
+
+.content .links #link-Twitter {
+    background-color: #1da1f2;
+}
+
+.content .links #link-Disc {
+    background-color: #7289da;
+}
+
+.content .links #link-Insta1, #link-Insta2 , #link-Git, #link-Link, #link-Email, #link-Twitter, #link-Disc {
+    font-size-adjust: initial;
+    text-decoration: none;
+    text-emphasis: none;
+    margin-top: 44px;
+    width: 300px;
+    height: 60px;
+}
+
+.content .links #link-Insta1 a, #link-Insta2 a,#link-Git a, #link-Link a, #link-Email a, #link-Twitter a, #link-Disc a{
+    color: #fafbfc;
+    text-decoration: none;
+}
+
+.content .links #link-Insta1 #insta1, #link-Insta2 #insta2,#link-Git #gitu, #link-Link #linkin, #link-Email #em, #link-Twitter #twit, #link-Disc #disc{
+    font-family: 'Noto Sans', sans-serif;
+    color: #fafbfc;
+    text-decoration: none;
+}
