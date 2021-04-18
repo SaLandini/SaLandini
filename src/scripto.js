@@ -11,7 +11,7 @@ linl_insta1.addEventListener('mouseenter', () => {
     insta1.innerHTML = "@Salandin.py"
 })
 linl_insta2.addEventListener('mouseenter', () => {
-    insta2.innerHTML = "@Salandin.f90"
+    insta2.innerHTML = "@Salandin.kra"
 })
 
 linl_insta1.addEventListener('mouseleave', () => {
@@ -47,20 +47,6 @@ linl_link.addEventListener('mouseenter', () => {
 })
 linl_link.addEventListener('mouseleave', () => {
     linkin.innerHTML = '' 
-})
-
-/*
-    Email hover
-*/
-
-email_link = document.getElementById("link-Email")
-email = document.getElementById("em")
-
-email_link.addEventListener('mouseenter', () => {
-    email.innerHTML = 'rafa_salandin@hotmail.com' 
-})
-email_link.addEventListener('mouseleave', () => {
-    email.innerHTML = '' 
 })
 
 /* 
